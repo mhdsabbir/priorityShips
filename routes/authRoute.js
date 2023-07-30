@@ -1,7 +1,6 @@
 import express from "express";
 import {
 quoteController,
-  
 } from "../controllers/authController.js";
 
 
